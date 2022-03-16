@@ -1,0 +1,65 @@
+.flex{
+    display: flex;
+}
+nav{
+    background-color: rgb(43, 155, 163);
+    color: rgb(255, 255, 255);
+    align-content: center;
+    border: 5px solid rgb(52, 92, 94);
+}
+a{
+    color: rgb(255, 255, 255);
+    justify-content: space-between;
+    padding: 5px;
+}
+a:hover{
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+    text-align: center;
+}
+#Imgs{
+    width: 100%;
+    align-self: center;
+    height: 150px;
+    width: 1227px;
+    border: 5px darkblue solid;
+}
+main{
+    background-color: rgb(112, 216, 129);
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+header{
+    background-color: cornflowerblue;
+    color: black;
+    text-align: center;
+    border: darkblue solid 5px;
+}
+section{
+    text-align: center;
+}
+footer{
+    background-color: crimson;
+    color: black;
+    border: 5px rgb(88, 3, 3) solid;
+    padding: 10px;
+}
+.cutscene{
+    background-color: goldenrod;
+    color: black;
+    border: 5px solid darkgoldenrod;
+    padding: 10px;
+    flex: 1;
+}
+img{
+    width: 220px;
+}
+.title{
+    background-color: rgb(112, 216, 129);
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+    border: 5px solid green;
+}

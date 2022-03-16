@@ -1,0 +1,252 @@
+html{
+    background-color: lightgoldenrodyellow;
+    margin: 10px;
+}
+section{
+    background-color: darkkhaki;
+    color: black;
+}
+.flex{
+    display: flex;
+}
+main{
+    color: black;
+    background-color: cornflowerblue;
+}
+a{
+    color: rgb(255, 255, 255);
+    justify-content: space-between;
+    padding: 5px;
+}
+a:hover{
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+    text-align: center;
+}
+#abigail{
+    align-items: center;
+    background-color: cornflowerblue;
+    padding: 5px;
+    border: 5px lightskyblue solid;
+}
+#alex{
+    align-items: center;
+    background-color: rgb(16, 180, 16);
+    padding: 5px;
+    border: 5px lightgreen solid;
+}
+#elliott{
+    align-items: center;
+    background-color: lightsalmon;
+    padding: 5px;
+    border: 5px salmon solid;
+}
+#caroline{
+    align-items: center;
+    background-color: darkseagreen;
+    padding: 5px;
+    border: 5px seagreen solid;
+}
+#pam{
+    align-items: center;
+    background-color: burlywood;
+    padding: 5px;
+    border: 5px rosybrown solid;
+}
+#penny{
+    align-items: center;
+    background-color: orange;
+    padding: 5px;
+    border: 5px darkorange solid;
+}
+#pierre{
+    align-items: center;
+    background-color: lightsteelblue;
+    padding: 5px;
+    border: 5px steelblue solid;
+}
+#sebastian{
+    align-items: center;
+    background-color: lightslategray;
+    padding: 5px;
+    border: 5px slategray solid;
+}
+#shane{
+    align-items: center;
+    background-color: cyan;
+    padding: 5px;
+    border: 5px darkcyan solid;
+}
+#clint{
+    align-items: center;
+    background-color: cadetblue;
+    padding: 5px;
+    border: 5px black solid;
+
+}
+#marnie{
+    align-items: center;
+    background-color: deepskyblue;
+    padding: 5px;
+    border: 5px dodgerblue solid;
+}
+#demetrius{
+    align-items: center;
+    background-color: blanchedalmond;
+    padding: 5px;
+    border: 5px burlywood solid;
+}
+#emily{
+    align-items: center;
+    background-color: rgb(189, 118, 255);
+    padding: 5px;
+    border: 5px blueviolet solid;
+}
+#evelyn{
+    align-items: center;
+    background-color: greenyellow;
+    padding: 5px;
+    border: 5px green solid;
+}
+#gus{
+    align-items: center;
+    background-color: goldenrod;
+    padding: 5px;
+    border: 5px gold solid;
+}
+#haley{
+    align-items: center;
+    background-color: plum;
+    padding: 5px;
+    border: 5px palevioletred solid;
+}
+#harvey{
+    align-items: center;
+    background-color: rgb(93, 161, 135);
+    padding: 5px;
+    border: 5px cadetblue solid;
+}
+#jas{
+    align-items: center;
+    background-color: rgb(190, 83, 243);
+    padding: 5px;
+    border: 5px purple solid;
+}
+#leah{
+    align-items: center;
+    background-color: rgb(110, 175, 45);
+    padding: 5px;
+    border: 5px rgba(1, 189, 1, 0.815) solid;
+}
+#leo{
+    align-items: center;
+    background: rgb(255, 83, 31);
+    padding: 5px;
+    border: 5px rgb(245, 21, 66) solid;
+}
+#lewis{
+    align-items: center;
+    background-color: rgba(214, 110, 50, 0.877);
+    padding: 5px;
+    border: 5px yellow solid;
+}
+#linus{
+    align-items: center;
+    background-color: chocolate;
+    padding: 5px;
+    border: 5px orange solid;
+}
+footer{
+    background-color: crimson;
+    color: black;
+    padding: 10px;
+    border: 5px rgb(88, 3, 3) solid;
+}
+nav{
+    background-color: cornflowerblue;
+    color: black;
+    text-align: center;
+    border: 5px darkblue solid;
+}
+#Imgs{
+    width: 100%;
+    align-self: center;
+    height: 150px;
+    width: 1217px;
+}
+article{
+    flex: 1;
+}
+main{
+    background-color: rgb(112, 216, 129);
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+section{
+    text-align: center;
+}
+.title{
+    background-color: rgb(112, 216, 129);
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+    border: 5px solid green;
+}
+#t1{
+    background-color: coral;
+    border: 5px solid chocolate;
+    padding: 10px;
+    color: black;
+}
+#t2{
+    background-color: darkolivegreen;
+    border: 5px solid olive;
+}
+#t3{
+    background-color: rgb(9, 211, 211);
+    border: 5px solid rgb(76, 76, 252);
+}
+#t5{
+    background-color: antiquewhite;
+    border: 5px solid rgb(245, 207, 207);
+}
+#t6{
+    background-color: burlywood;
+    border: 5px solid rgb(250, 237, 187);
+}
+#t7{
+    background-color: grey;
+    border: 5px solid dimgray;
+}
+#t8{
+    background-color: darkcyan;
+    border: 5px solid darkblue;
+}
+#t9{
+    background-color: rgb(218, 40, 40);
+    border: 5px solid maroon;
+}
+#t10{
+    background-color: orchid;
+    border: 5px solid darkorchid;
+}
+h2{
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+.cutscene{
+    background-color: goldenrod;
+    color: black;
+    border: 5px solid darkgoldenrod;
+    padding: 10px;
+    flex: 1;
+}
+.imgalex{
+    width: 250px;
+}
+#intro{
+    border: 5px rgb(231, 157, 60) solid;
+}

@@ -1,0 +1,97 @@
+html{
+    background-color: black;
+}
+.flex{
+    display: flex;
+}
+nav{
+    background-color: rgb(43, 155, 163);
+    color: rgb(255, 255, 255);
+    align-content: center;
+    border: 5px solid rgb(52, 92, 94);
+}
+a{
+    color: rgb(255, 255, 255);
+    justify-content: space-between;
+    padding: 5px;
+}
+a:hover{
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+    text-align: center;
+}
+#Imgs{
+    width: 100%;
+    align-self: center;
+    height: 200px;
+    width: 1235px;
+}
+main{
+    background-color: rgb(112, 216, 129);
+    color: black;
+    border: 5px solid green;
+}
+header{
+    background-color: cornflowerblue;
+    color: black;
+    text-align: center;
+    border: 5px darkblue solid;
+}
+section{
+    text-align: center;
+}
+footer{
+    background-color: crimson;
+    color: black;
+    padding: 10px;
+    border: 5px rgb(88, 3, 3) solid;
+}
+article{
+    background-color: goldenrod;
+    color: black;
+    border: 5px solid darkgoldenrod;
+    padding: 10px;
+}
+#t1{
+    background-color: coral;
+    border: 5px solid chocolate;
+    padding: 10px;
+    color: black;
+}
+#t2{
+    background-color: darkolivegreen;
+    border: 5px solid olive;
+}
+#t3{
+    background-color: rgb(9, 211, 211);
+    border: 5px solid rgb(76, 76, 252);
+}
+#t5{
+    background-color: antiquewhite;
+    border: 5px solid rgb(245, 207, 207);
+}
+#t6{
+    background-color: burlywood;
+    border: 5px solid rgb(250, 237, 187);
+}
+#t7{
+    background-color: grey;
+    border: 5px solid dimgray;
+}
+#t8{
+    background-color: darkcyan;
+    border: 5px solid darkblue;
+}
+#t9{
+    background-color: rgb(218, 40, 40);
+    border: 5px solid maroon;
+}
+#t10{
+    background-color: orchid;
+    border: 5px solid darkorchid;
+}
+h2{
+    text-decoration: underline;
+    font-weight: bold;
+
+}
